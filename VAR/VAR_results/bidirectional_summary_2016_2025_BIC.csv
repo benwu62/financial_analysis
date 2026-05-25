@@ -1,0 +1,17 @@
+﻿Pair,Factor_to_Company_p,Factor_to_Company_Significant,Company_to_Factor_p,Company_to_Factor_Significant,Relationship
+Brent_Crude <-> Formosa_Plastics,1.8500949785574978e-16,True,0.011682094563713994,True,Bidirectional
+Brent_Crude <-> Nan_Ya,4.95014565171618e-13,True,0.04976445400795856,True,Bidirectional
+Brent_Crude <-> Formosa_Chemicals,2.8849014777393244e-15,True,0.046233794005076566,True,Bidirectional
+Brent_Crude <-> Formosa_Petrochemical,6.067270370225065e-24,True,0.01381067052276264,True,Bidirectional
+Natural_Gas <-> Formosa_Plastics,1.4855781647711906e-05,True,0.06383281090055819,False,Factor -> Company
+Natural_Gas <-> Nan_Ya,0.00014316293394737382,True,0.100479223368494,False,Factor -> Company
+Natural_Gas <-> Formosa_Chemicals,0.0003124011606730413,True,0.032221516709641115,True,Bidirectional
+Natural_Gas <-> Formosa_Petrochemical,4.3547123968255896e-05,True,0.025929006257665126,True,Bidirectional
+US_Dollar_Index <-> Formosa_Plastics,6.100007077392851e-07,True,0.0418219996965767,True,Bidirectional
+US_Dollar_Index <-> Nan_Ya,8.219910798141527e-09,True,0.036434772825393855,True,Bidirectional
+US_Dollar_Index <-> Formosa_Chemicals,4.6299992773009566e-07,True,0.04481788718735796,True,Bidirectional
+US_Dollar_Index <-> Formosa_Petrochemical,3.0487581189101636e-07,True,0.013174474842751131,True,Bidirectional
+TAIEX <-> Formosa_Plastics,0.001577515576451798,True,0.7395280026740756,False,Factor -> Company
+TAIEX <-> Nan_Ya,0.02528198861854036,True,0.0651642019369368,False,Factor -> Company
+TAIEX <-> Formosa_Chemicals,0.047895464170898745,True,0.12713001267191454,False,Factor -> Company
+TAIEX <-> Formosa_Petrochemical,0.005282097184226178,True,0.11075708067292633,False,Factor -> Company
