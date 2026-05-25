@@ -1,0 +1,17 @@
+﻿Direction,X_causing,Y_caused,Best_Lag,Min_p_value,Significant_5pct
+Brent_Crude -> Formosa_Petrochemical,Brent_Crude,Formosa_Petrochemical,6,6.067270370225065e-24,True
+Brent_Crude -> Formosa_Plastics,Brent_Crude,Formosa_Plastics,5,1.8500949785574978e-16,True
+Brent_Crude -> Formosa_Chemicals,Brent_Crude,Formosa_Chemicals,5,2.8849014777393244e-15,True
+Brent_Crude -> Nan_Ya,Brent_Crude,Nan_Ya,5,4.95014565171618e-13,True
+US_Dollar_Index -> Nan_Ya,US_Dollar_Index,Nan_Ya,6,8.219910798141527e-09,True
+US_Dollar_Index -> Formosa_Petrochemical,US_Dollar_Index,Formosa_Petrochemical,4,3.0487581189101636e-07,True
+US_Dollar_Index -> Formosa_Chemicals,US_Dollar_Index,Formosa_Chemicals,6,4.6299992773009566e-07,True
+US_Dollar_Index -> Formosa_Plastics,US_Dollar_Index,Formosa_Plastics,4,6.100007077392851e-07,True
+Natural_Gas -> Formosa_Plastics,Natural_Gas,Formosa_Plastics,1,1.4855781647711906e-05,True
+Natural_Gas -> Formosa_Petrochemical,Natural_Gas,Formosa_Petrochemical,1,4.3547123968255896e-05,True
+Natural_Gas -> Nan_Ya,Natural_Gas,Nan_Ya,1,0.00014316293394737382,True
+Natural_Gas -> Formosa_Chemicals,Natural_Gas,Formosa_Chemicals,1,0.0003124011606730413,True
+TAIEX -> Formosa_Plastics,TAIEX,Formosa_Plastics,4,0.001577515576451798,True
+TAIEX -> Formosa_Petrochemical,TAIEX,Formosa_Petrochemical,1,0.005282097184226178,True
+TAIEX -> Nan_Ya,TAIEX,Nan_Ya,6,0.02528198861854036,True
+TAIEX -> Formosa_Chemicals,TAIEX,Formosa_Chemicals,3,0.047895464170898745,True
