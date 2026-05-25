@@ -1,9 +1,0 @@
-﻿Variable,ADF_p_value,ADF_Stationary,KPSS_p_value,KPSS_Stationary,Both_Stationary
-Formosa_Plastics,0.0,True,0.03190996316236312,False,False
-Nan_Ya,0.0,True,0.1,True,True
-Formosa_Chemicals,0.0,True,0.026094819992292944,False,False
-Formosa_Petrochemical,0.0,True,0.1,True,True
-Brent_Crude,0.0,True,0.1,True,True
-US_Dollar_Index,0.0,True,0.1,True,True
-Natural_Gas,0.0,True,0.1,True,True
-TAIEX,0.0,True,0.1,True,True
